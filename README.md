@@ -8,6 +8,12 @@ Clase 6 control de versiones desde el terminal
 - pelo rubio y largo ondulado
 
 ## CARACTERISTICAS DEL COMPUTADOR
-- Procesador i3 de intel, grafica integrada, 64 bits, 240gb de almacenamiento, 8gb de RAM, Windows 10
+1. Procesador i3 de intel
+2. grafica integrada
+3. 64 bits
+4. 240gb de almacenamiento
+5. 8gb de RAM
+6. Windows 10
 ## CARACTERISTICAS DEL PROGRAMA
-- 
+- Git 2.36.1
+- visual Studio Code 2.67.2
